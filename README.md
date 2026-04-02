@@ -1,6 +1,6 @@
 # Word Vectorizer Models Experimentation
 **Course:** Machine Learning in CYS (24CYS214)  
-**Team:** Yashwanth S (CH.SC.U4CYS24059) & Harshamithran P (CH.SC.U4CYS24021) 
+**Team:** Yashwanth S (CH.SC.U4CYS24059) and Harshamithran P (CH.SC.U4CYS24021) 
 
 ## Overview
 This project evaluates conventional (BoW, TF-IDF) and deep learning (Word2Vec, GloVe, BERT) vectorization techniques using the IMDb Movie Reviews dataset (50,000 samples)
